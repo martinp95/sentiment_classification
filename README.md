@@ -13,7 +13,7 @@ This project aims to classify the sentiment of text data using machine learning 
 ## Installation
 To get started, clone the repository and set up the conda environment:
 ```bash
-git clone https://github.com/yourusername/sentiment_classification.git
+git clone https://github.com/martinp95/sentiment_classification.git
 cd sentiment_classification
 conda env create -f environment.yaml
 conda activate sentiment_classification
